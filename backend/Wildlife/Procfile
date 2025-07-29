@@ -1,0 +1,1 @@
+web: gunicorn Wildlife.wsgi --log-file -
